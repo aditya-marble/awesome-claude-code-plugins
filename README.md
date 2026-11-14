@@ -303,6 +303,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [app-store-optimizer](./plugins/app-store-optimizer)
 - [claude-rank](https://github.com/Houseofmvps/claude-rank) - SEO/GEO/AEO audit with 170+ rules, auto-fix for robots.txt/sitemap.xml/llms.txt/JSON-LD
 - [content-creator](./plugins/content-creator)
+- [GoMarble](https://github.com/gomarble-ai/marketing-agent) - Paid media plugin: connects Meta, Google, TikTok and 80+ tools via MCP, with skills for diagnosing performance, creative analysis, wasted spend, budget shifts, launches and reports. Requires a GoMarble account. Install via `/plugin marketplace add gomarble-ai/marketing-agent` then `/plugin install gomarble@gomarble`.
 - [growth-hacker](./plugins/growth-hacker)
 - [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) - Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, follower exports, and approval-gated actions.
 - [instagram-curator](./plugins/instagram-curator)
